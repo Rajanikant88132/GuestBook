@@ -1,0 +1,6 @@
+com\rajanikant\guestbook\controller\GuestBookBackEndController.class
+com\rajanikant\guestbook\entity\GuestDetails.class
+com\rajanikant\guestbook\controller\GuetBookUIController.class
+com\rajanikant\guestbook\repository\GuestDetailsRepository.class
+com\rajanikant\guestbook\GuestBookProjectApplication.class
+com\rajanikant\guestbook\service\GuestDetailsService.class
